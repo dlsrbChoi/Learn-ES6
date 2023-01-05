@@ -36,3 +36,5 @@
 
 ## Import & Export
 - 모듈화 기능
+
+**MIT Licensed | Copyright © 2018-present Captain Pangyo**
